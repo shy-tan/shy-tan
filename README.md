@@ -1,6 +1,8 @@
 # 💫About Me :
 🔭 I’m currently working on Interview Problems.
+
 🌱 I’m currently learning more about Deep Learning and BlockChain.
+
 👯 I’m looking to collaborate on anything Python.
 
 ## 🌐Socials
